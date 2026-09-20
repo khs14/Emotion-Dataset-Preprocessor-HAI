@@ -49,8 +49,8 @@ The numerical labels are the original dataset values:
 ## Run locally
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/khs14/Emotion-Dataset-Preprocessor-HAI.git
+cd Emotion-Dataset-Preprocessor-HAI
 pip install -r requirements.txt
 streamlit run app.py
 ```
