@@ -75,7 +75,9 @@ HF_TOKEN = "your_huggingface_token"
 .
 ├── app.py
 ├── requirements.txt
-└── README.md
+├── README.md
+├── LICENSE
+└── .gitignore
 ```
 
 ## Credits
